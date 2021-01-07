@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MYWork\\Getting-Started-With-Jenkins-master\\Getting-Started-With-Jenkins-master\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj",
+      "projectUniqueName": "E:\\PMAC\\MyJenkinsTest\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj",
       "projectName": "JenkinsIntegration.Services",
-      "projectPath": "E:\\MYWork\\Getting-Started-With-Jenkins-master\\Getting-Started-With-Jenkins-master\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj",
+      "projectPath": "E:\\PMAC\\MyJenkinsTest\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj",
       "packagesPath": "C:\\Users\\sureshkumar.ps\\.nuget\\packages\\",
-      "outputPath": "E:\\MYWork\\Getting-Started-With-Jenkins-master\\Getting-Started-With-Jenkins-master\\JenkinsIntegration\\JenkinsIntegration.Services\\obj\\",
+      "outputPath": "E:\\PMAC\\MyJenkinsTest\\JenkinsIntegration\\JenkinsIntegration.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

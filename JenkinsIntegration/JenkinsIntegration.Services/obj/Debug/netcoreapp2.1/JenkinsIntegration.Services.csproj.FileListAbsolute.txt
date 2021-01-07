@@ -15,3 +15,12 @@ E:\MYWork\Getting-Started-With-Jenkins-master\Getting-Started-With-Jenkins-maste
 E:\MYWork\Getting-Started-With-Jenkins-master\Getting-Started-With-Jenkins-master\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.csproj.CoreCompileInputs.cache
 E:\MYWork\Getting-Started-With-Jenkins-master\Getting-Started-With-Jenkins-master\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.dll
 E:\MYWork\Getting-Started-With-Jenkins-master\Getting-Started-With-Jenkins-master\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.pdb
+E:\PMAC\MyJenkinsTest\JenkinsIntegration\JenkinsIntegration.Services\bin\Debug\netcoreapp2.1\JenkinsIntegration.Services.deps.json
+E:\PMAC\MyJenkinsTest\JenkinsIntegration\JenkinsIntegration.Services\bin\Debug\netcoreapp2.1\JenkinsIntegration.Services.dll
+E:\PMAC\MyJenkinsTest\JenkinsIntegration\JenkinsIntegration.Services\bin\Debug\netcoreapp2.1\JenkinsIntegration.Services.pdb
+E:\PMAC\MyJenkinsTest\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.csprojAssemblyReference.cache
+E:\PMAC\MyJenkinsTest\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.AssemblyInfoInputs.cache
+E:\PMAC\MyJenkinsTest\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.AssemblyInfo.cs
+E:\PMAC\MyJenkinsTest\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.csproj.CoreCompileInputs.cache
+E:\PMAC\MyJenkinsTest\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.dll
+E:\PMAC\MyJenkinsTest\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.pdb

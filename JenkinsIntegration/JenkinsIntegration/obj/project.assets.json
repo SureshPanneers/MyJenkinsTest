@@ -11847,11 +11847,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MYWork\\Getting-Started-With-Jenkins-master\\Getting-Started-With-Jenkins-master\\JenkinsIntegration\\JenkinsIntegration\\JenkinsIntegration.csproj",
+      "projectUniqueName": "E:\\PMAC\\MyJenkinsTest\\JenkinsIntegration\\JenkinsIntegration\\JenkinsIntegration.csproj",
       "projectName": "JenkinsIntegration",
-      "projectPath": "E:\\MYWork\\Getting-Started-With-Jenkins-master\\Getting-Started-With-Jenkins-master\\JenkinsIntegration\\JenkinsIntegration\\JenkinsIntegration.csproj",
+      "projectPath": "E:\\PMAC\\MyJenkinsTest\\JenkinsIntegration\\JenkinsIntegration\\JenkinsIntegration.csproj",
       "packagesPath": "C:\\Users\\sureshkumar.ps\\.nuget\\packages\\",
-      "outputPath": "E:\\MYWork\\Getting-Started-With-Jenkins-master\\Getting-Started-With-Jenkins-master\\JenkinsIntegration\\JenkinsIntegration\\obj\\",
+      "outputPath": "E:\\PMAC\\MyJenkinsTest\\JenkinsIntegration\\JenkinsIntegration\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -11872,8 +11872,8 @@
         "netcoreapp2.1": {
           "targetAlias": "netcoreapp2.1",
           "projectReferences": {
-            "E:\\MYWork\\Getting-Started-With-Jenkins-master\\Getting-Started-With-Jenkins-master\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj": {
-              "projectPath": "E:\\MYWork\\Getting-Started-With-Jenkins-master\\Getting-Started-With-Jenkins-master\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj"
+            "E:\\PMAC\\MyJenkinsTest\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj": {
+              "projectPath": "E:\\PMAC\\MyJenkinsTest\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj"
             }
           }
         }

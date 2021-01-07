@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\MYWork\\Getting-Started-With-Jenkins-master\\Getting-Started-With-Jenkins-master\\JenkinsIntegration\\JenkinsIntegration.Tests\\JenkinsIntegration.Tests.csproj": {}
+    "E:\\PMAC\\MyJenkinsTest\\JenkinsIntegration\\JenkinsIntegration.Tests\\JenkinsIntegration.Tests.csproj": {}
   },
   "projects": {
-    "E:\\MYWork\\Getting-Started-With-Jenkins-master\\Getting-Started-With-Jenkins-master\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj": {
+    "E:\\PMAC\\MyJenkinsTest\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MYWork\\Getting-Started-With-Jenkins-master\\Getting-Started-With-Jenkins-master\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj",
+        "projectUniqueName": "E:\\PMAC\\MyJenkinsTest\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj",
         "projectName": "JenkinsIntegration.Services",
-        "projectPath": "E:\\MYWork\\Getting-Started-With-Jenkins-master\\Getting-Started-With-Jenkins-master\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj",
+        "projectPath": "E:\\PMAC\\MyJenkinsTest\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj",
         "packagesPath": "C:\\Users\\sureshkumar.ps\\.nuget\\packages\\",
-        "outputPath": "E:\\MYWork\\Getting-Started-With-Jenkins-master\\Getting-Started-With-Jenkins-master\\JenkinsIntegration\\JenkinsIntegration.Services\\obj\\",
+        "outputPath": "E:\\PMAC\\MyJenkinsTest\\JenkinsIntegration\\JenkinsIntegration.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -65,14 +65,14 @@
         }
       }
     },
-    "E:\\MYWork\\Getting-Started-With-Jenkins-master\\Getting-Started-With-Jenkins-master\\JenkinsIntegration\\JenkinsIntegration.Tests\\JenkinsIntegration.Tests.csproj": {
+    "E:\\PMAC\\MyJenkinsTest\\JenkinsIntegration\\JenkinsIntegration.Tests\\JenkinsIntegration.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MYWork\\Getting-Started-With-Jenkins-master\\Getting-Started-With-Jenkins-master\\JenkinsIntegration\\JenkinsIntegration.Tests\\JenkinsIntegration.Tests.csproj",
+        "projectUniqueName": "E:\\PMAC\\MyJenkinsTest\\JenkinsIntegration\\JenkinsIntegration.Tests\\JenkinsIntegration.Tests.csproj",
         "projectName": "JenkinsIntegration.Tests",
-        "projectPath": "E:\\MYWork\\Getting-Started-With-Jenkins-master\\Getting-Started-With-Jenkins-master\\JenkinsIntegration\\JenkinsIntegration.Tests\\JenkinsIntegration.Tests.csproj",
+        "projectPath": "E:\\PMAC\\MyJenkinsTest\\JenkinsIntegration\\JenkinsIntegration.Tests\\JenkinsIntegration.Tests.csproj",
         "packagesPath": "C:\\Users\\sureshkumar.ps\\.nuget\\packages\\",
-        "outputPath": "E:\\MYWork\\Getting-Started-With-Jenkins-master\\Getting-Started-With-Jenkins-master\\JenkinsIntegration\\JenkinsIntegration.Tests\\obj\\",
+        "outputPath": "E:\\PMAC\\MyJenkinsTest\\JenkinsIntegration\\JenkinsIntegration.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -93,8 +93,8 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "E:\\MYWork\\Getting-Started-With-Jenkins-master\\Getting-Started-With-Jenkins-master\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj": {
-                "projectPath": "E:\\MYWork\\Getting-Started-With-Jenkins-master\\Getting-Started-With-Jenkins-master\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj"
+              "E:\\PMAC\\MyJenkinsTest\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj": {
+                "projectPath": "E:\\PMAC\\MyJenkinsTest\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj"
               }
             }
           }
